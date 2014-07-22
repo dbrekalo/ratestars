@@ -1,0 +1,22 @@
+{
+  "name": "ratestars",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dbrekalo/ratestars",
+  "authors": [
+    "Damir Brekalo <dbrekalo@gmail.com>"
+  ],
+  "description": "jQuery plugin for rating content with stars",
+  "main": "dist/ratestars.min.js",
+  "keywords": [
+    "rating",
+    "stars"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
